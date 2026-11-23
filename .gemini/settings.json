@@ -1,0 +1,11 @@
+{
+  "advanced": {
+    "ignoreLocalEnv": true
+  },
+  "skills": {
+    "disabled": [
+      "server-auth-route-check",
+      "server-sql-schema-verify"
+    ]
+  }
+}

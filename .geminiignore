@@ -1,0 +1,9 @@
+# Filter local env files, keys, and build artifacts in tools that honor .geminiignore.
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+dist/
+coverage/
+node_modules/
